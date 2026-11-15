@@ -1,0 +1,10 @@
+.gradle/
+build/
+run/
+.idea/
+*.iml
+
+*.log
+.vscode/
+.DS_Store
+hs_err_pid*
